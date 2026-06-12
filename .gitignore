@@ -1,0 +1,12 @@
+*.i64
+repack/
+.venv/
+
+cmake-build-*/
+build/
+out/
+.idea/
+.zed/
+
+__cmake_*
+*.7z
